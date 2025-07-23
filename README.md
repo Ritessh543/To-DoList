@@ -2,7 +2,7 @@
 
 iTask is a simple and elegant **React-based To-Do List** app built with **Vite** and styled using **Tailwind CSS**. It allows users to create, manage, edit, and delete todos, with support for marking tasks as completed and persisting them in **localStorage**.
 
-![Main UI](./ss1)
+![Main UI](./ss1.jpg)
 
 ---
 
@@ -16,7 +16,7 @@ iTask is a simple and elegant **React-based To-Do List** app built with **Vite**
 - 🔍 Toggle visibility for completed tasks
 
 ---
-![Adding a ToDo](,/ss2)
+![Adding a ToDo](./ss2.jpg)
 
 ## 🛠️ Tech Stack
 
